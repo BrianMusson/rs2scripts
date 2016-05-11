@@ -107,7 +107,7 @@ main_loop()
 		fi
 
 		let runs+=1
-done
+	done
 }
 
 # Run the main loop
